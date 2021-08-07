@@ -1,3 +1,7 @@
+#### About
+
+A landing page for a made-up dog dating site; Uses HTML/CSS and Bootstrap CSS/JS
+
 #### Link
 
 Visit the page here: [tindog](https://maryletteroa.github.io/tindog/) 🐶
